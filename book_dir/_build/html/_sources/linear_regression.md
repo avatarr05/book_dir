@@ -36,9 +36,6 @@ Penguins can be very cute.
 print(2 + 2)
 ```
 
-mkdir data && cd data
-wget https://raw.githubusercontent.com/hsf-training/deep-learning-intro-for-hep/refs/heads/main/deep-learning-intro-for-hep/data/penguins.csv 
-
 ```{code-cell} ipython3
 import pandas as pd
 penguins_df = pd.read_csv("data/penguins.csv")

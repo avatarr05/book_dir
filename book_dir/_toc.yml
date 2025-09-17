@@ -4,4 +4,9 @@
 format: jb-book
 root: intro
 chapters:
-- file: linear_regression.md
+- file: linear_regression
+- file: content
+- file: markdown
+- file: markdown-notebooks
+- file: intro
+- file: notebooks.ipynb
